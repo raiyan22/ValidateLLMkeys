@@ -6,7 +6,7 @@
 
 A simple, fast, and secure web tool to instantly validate API keys for popular AI services. Check if your API keys are working without writing any code!
 
-![API Key Validator Screenshot](https://www.your-api-validator.com/social-preview.png)
+<img width="1884" height="959" alt="Screenshot 2025-08-04 195150" src="https://github.com/user-attachments/assets/1de025d4-aacf-4d5b-9e5d-5a98f6fb107e" />
 
 ## ✨ Features
 
