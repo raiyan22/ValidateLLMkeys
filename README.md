@@ -19,7 +19,7 @@ A simple, fast, and secure web tool to instantly validate API keys for popular A
 
 ## 🚀 How to Use
 
-1. Go to [https://www.your-api-validator.com](https://validateapikeys.netlify.app)
+1. Go to [https://validateapikeys.netlify.app](https://validateapikeys.netlify.app)
 2. Select the API service you want to validate
 3. Enter your API key in the input field
 4. Click "Validate" or press Enter
